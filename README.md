@@ -3,17 +3,19 @@
 ImageViewer es una aplicación Java diseñada para visualizar imágenes de manera eficiente y fácil de usar. Permite a los usuarios navegar entre imágenes utilizando botones de siguiente y anterior, y está optimizada para un rendimiento rápido y fluido.
 
 
+
 <p align="center">
-  <img images/pexels-apasaric-1285625.jpg" alt="pexels-apasaric-1285625" width="200"/>
-  <img images/pexels-baskincreativeco-1576667.jpg" alt="pexels-baskincreativeco-1576667" width="200"/>
-  <img images/pexels-casia-charlie-1270232-2433467.jpg" alt="pexels-casia-charlie-1270232-2433467" width="200"/>
-  <img images/pexels-nout-gons-80280-248159.jpg" alt="pexels-nout-gons-80280-248159" width="200"/>
-  <img images/pexels-pixabay-206359.jpg" alt="pexels-pixabay-206359" width="200"/>
-  <img images/pexels-souvenirpixels-1486974.jpg" alt="pexels-souvenirpixels-1486974" width="200"/>
-  <img images/pexels-souvenirpixels-1619317.jpg" alt="pexels-souvenirpixels-1619317" width="200"/>
-  <img images/pexels-valentin-cvetanoski-2147958923-30107968.jpg" alt="pexels-valentin-cvetanoski-2147958923-30107968" width="200"/>
-  <img images/pexels-wojtekstrzelec-1595742.jpg" alt="pexels-wojtekstrzelec-1595742" width="200"/>
+  <img src="images/pexels-apasaric-1285625.jpg" alt="pexels-apasaric-1285625" width="200"/>
+  <img src="images/pexels-baskincreativeco-1576667.jpg" alt="pexels-baskincreativeco-1576667" width="200"/>
+  <img src="images/pexels-casia-charlie-1270232-2433467.jpg" alt="pexels-casia-charlie-1270232-2433467" width="200"/>
+  <img src="images/pexels-nout-gons-80280-248159.jpg" alt="pexels-nout-gons-80280-248159" width="200"/>
+  <img src="images/pexels-pixabay-206359.jpg" alt="pexels-pixabay-206359" width="200"/>
+  <img src="images/pexels-souvenirpixels-1486974.jpg" alt="pexels-souvenirpixels-1486974" width="200"/>
+  <img src="images/pexels-souvenirpixels-1619317.jpg" alt="pexels-souvenirpixels-1619317" width="200"/>
+  <img src="images/pexels-valentin-cvetanoski-2147958923-30107968.jpg" alt="pexels-valentin-cvetanoski-2147958923-30107968" width="200"/>
+  <img src="images/pexels-wojtekstrzelec-1595742.jpg" alt="pexels-wojtekstrzelec-1595742" width="200"/>
 </p>
+
 
 ## Características
 
