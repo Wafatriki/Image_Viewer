@@ -2,8 +2,6 @@
 
 ImageViewer es una aplicación Java diseñada para visualizar imágenes de manera eficiente y fácil de usar. Permite a los usuarios navegar entre imágenes utilizando botones de siguiente y anterior, y está optimizada para un rendimiento rápido y fluido.
 
-
-
 <p align="center">
   <img src="images/pexels-apasaric-1285625.jpg" alt="pexels-apasaric-1285625" width="200"/>
   <img src="images/pexels-baskincreativeco-1576667.jpg" alt="pexels-baskincreativeco-1576667" width="200"/>
@@ -47,3 +45,13 @@ El proyecto está organizado en los siguientes paquetes:
   - `ImageFileReader.java`
   
 - `Main.java`
+
+## Conclusión
+
+ImageViewer es una herramienta poderosa y eficiente para la visualización de imágenes, diseñada con una interfaz de usuario intuitiva y un rendimiento optimizado.
+
+La estructura modular del proyecto, con paquetes claramente definidos para el control, la visualización, el modelo y los servicios, facilita la mantenibilidad y la extensibilidad del código. Además, la implementación de un caché de imágenes mejora significativamente el rendimiento al navegar entre imágenes.
+
+Invitamos a la comunidad de desarrolladores a contribuir al proyecto, ya sea añadiendo nuevas funcionalidades, mejorando el rendimiento o corrigiendo errores. 
+
+---
